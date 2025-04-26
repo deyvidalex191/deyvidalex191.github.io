@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Site - Tag - Meu blog</title>
+        <link>http://localhost:1313/tags/site/</link>
+        <description>Site - Tag - Meu blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 23:31:15 -0300</lastBuildDate><atom:link href="http://localhost:1313/tags/site/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Mon, 21 Apr 2025 23:31:15 -0300</pubDate>
+    <author>Hugo Authors</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[<h1 id="minha-primeira-postagem">Minha primeira postagem</h1>
+<p>Escrevendo <strong>meu primeiro post</strong> em um site criado com <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer ">Hugo</a>.</p>
+<h2 id="tema-do-site">Tema do site</h2>
+<p>O tema usado no site foi o <a href="https://themes.gohugo.io/themes/devise/" target="_blank" rel="noopener noreffer ">devise</a>.</p>]]></description>
+</item>
+</channel>
+</rss>
